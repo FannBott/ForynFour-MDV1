@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6285770190255'] 
+global.owner = ['855388410032'] 
 global.mods = [] 
 global.prems = [] 
-global.kontak = ['6285770190255']
+global.kontak = ['855388410032']
 
 //  INFO BOT 
-global.naown = 'HanzOfc'
-global.noown = '6285770190255'
-global.namebot = 'XiaomiBOT'
-global.nobot = '62857791505013'
+global.naown = 'satria'
+global.noown = '855388410032'
+global.namebot = 'satria naylaa'
+global.nobot = '66817198420'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/rangga_botz'
-global.github = 'https://github.com/XiaomiBOT'
+global.instagram = 'https://instagram.com/xbs_saa'
+global.github = 'https://github.com/FannBoth'
 global.gc = 'https://chat.whatsapp.com/CxhaZtrxdn4AfSUOHuCtcM'
-global.web = 'https://hanz.my.id' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/xbs_saa' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.saweria = 'https://saweria.co/XiaomiBOT'
 
 // PAYMANT 
-global.dana = '085779150501'
-global.pulsa = '085770190255'
-global.gopay = '085779150501'
+global.dana = '082162307873'
+global.pulsa = '08388838249'
+global.gopay = '08388838239'
 global.shopay = '-'
-global.ovo = '085779150501'
+global.ovo = '08388838239'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐗𝐢𝐚𝐨𝐦𝐢𝐁𝐎𝐓'
+global.wm = 'ᬊᬁ satria naylaa'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙃𝙖𝙣𝙯𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝙓𝙞𝙖𝙤𝙢𝙞 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 satria'
+global.wm3 = '⫹⫺ satria | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
